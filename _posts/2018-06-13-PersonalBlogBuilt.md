@@ -6,7 +6,7 @@ description: "Bulid personal blog by github blog"
 tag: blog
 ---   
  
-　有了Github帐号之后创建github pages，然后找一个合适的模板。
+有了Github帐号之后创建github pages，然后找一个合适的模板。
  
 ## 注册GitHub Account
 If you know how, you dont need to read.
@@ -18,3 +18,4 @@ If you dont, you have no chance to come here.
 
 ## 找一个中意的github.io，抄一下
 找一个看着舒服的github.io，复制过来，然后修改_config.yml和博客内容。
+如果还有问题，请![Google](https://pages.github.com/images/posts/google.png)
